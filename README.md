@@ -1,5 +1,6 @@
 # Stagger
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://github.com/ausimian/stagger/actions/workflows/elixir.yml/badge.svg)](https://github.com/ausimian/stagger/actions?query=workflow%3A%22CI%22)
 [![Coverage Status](https://coveralls.io/repos/github/ausimian/stagger/badge.svg?branch=main)](https://coveralls.io/github/ausimian/stagger?branch=main)
 [![Hex](https://img.shields.io/hexpm/v/stagger.svg)](https://hex.pm/packages/stagger)
